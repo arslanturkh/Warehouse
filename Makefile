@@ -8,5 +8,4 @@ packem : warehouse.c slots.h slots.c
 	
 
 	
-clean : 
-	-rm packem $(USER)_proj2.tar.gz
+
